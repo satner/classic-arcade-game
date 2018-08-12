@@ -8,3 +8,8 @@ The goal of the player is to reach the water, without colliding into any one of 
 * Once the player reaches the water the game is won.
 
 ![image](https://user-images.githubusercontent.com/26036800/43995780-bdba1226-9dbd-11e8-95f6-bfda66163088.png)
+
+## Loading the game locally
+
+1. Clone the repository 
+2. Open _index.html_ with some browser
